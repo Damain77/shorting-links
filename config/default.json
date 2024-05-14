@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "damain77 kurs mern",
+    "mongoUrl": "mongodb+srv://dmitrydamain:PASS1089@cluster1.lk4kuet.mongodb.net/app?retryWrites=true&w=majority&appName=Cluster1",
+    "baseUrl": "http://localhost:5000"
+}
